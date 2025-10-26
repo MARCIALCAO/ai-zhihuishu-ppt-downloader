@@ -15,6 +15,7 @@
 ## 注意事项
 - 本项目是一个适用于 [Tampermonkey](https://www.tampermonkey.net/) 的脚本，需提前在浏览器内安装此插件
 - 脚本只在 `ai-smart-course-student-pro.zhihuishu.com` 域名下生效
+- 仅供个人学习使用，禁止商用！
 
 
 
