@@ -111,7 +111,7 @@
   // ===== 文件扫描逻辑 =====
   function scanForFiles() {
     const html = document.documentElement.outerHTML;
-    const fileRegex = /(https?:\/\/[^\s"'<>]+?\.pptx(?:\?[^\s"'<>]*)?)/gi;
+    const fileRegex = /(https?:\/\/[^\s"'<>]+?\.(pptx?|PPTX?)(?:\?[^\s"'<>]*)?)/gi;
     const found = [...new Set(html.match(fileRegex) || [])];
     box.innerHTML = '';
 
