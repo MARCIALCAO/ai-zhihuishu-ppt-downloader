@@ -2,7 +2,7 @@
 
 
 
-\## 功能
+\功能
 
 \- 自动扫描智慧树网页中的 PPT/PPTX 下载链接
 
@@ -12,9 +12,9 @@
 
 
 
-\## 安装
+\安装
 
-1\. 安装 Tampermonkey 浏览器插件
+1\. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器插件
 
 2\. 下载 `zhihuishu-ppt-downloader.user.js`
 
@@ -24,13 +24,14 @@
 
 
 
-\## 注意事项
+\注意事项
 
 \- 本项目是一个适用于 [Tampermonkey](https://www.tampermonkey.net/) 的脚本，用于下载智慧树课程中的 PPTX 文件。
 
 \- 脚本只在 `ai-smart-course-student-pro.zhihuishu.com` 域名下生效
 
 \- 文件名使用 URL 中哈希值命名
+
 
 
 
